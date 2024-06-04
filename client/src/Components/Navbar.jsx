@@ -19,7 +19,7 @@ const Navbar = () => {
         <Link to="/all-items">All Items</Link>
       </div>
       <div className="navbar-login">
-        <Link to="/login">Login/Signup</Link>
+        <Link to="/login">Login</Link>
       </div>
     </nav>
   );
